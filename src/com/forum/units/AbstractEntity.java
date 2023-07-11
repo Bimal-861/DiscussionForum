@@ -16,7 +16,7 @@ public abstract class AbstractEntity {
 	 *
 	 * @return the id of this Abstract entity
 	 */
-	// Please write code for the s method here
+	
 	public long getId(){
 		return id;
 	}
